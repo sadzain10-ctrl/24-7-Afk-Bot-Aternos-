@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
+    "ip": "sadzain10.aternos.me:38412",
+    "port": 38412,
     "version": "1.20.1",
     "try-creative": false
   },
